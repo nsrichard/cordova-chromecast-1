@@ -1,0 +1,30 @@
+{
+  "name": "cordova-chromecast-1",
+  "version": "1.0.0",
+  "description": "Cordova chromecast",
+  "cordova": {
+    "id": "cordova-chromecast-1",
+    "platforms": [
+      "android"
+    ]
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nsrichard/cordova-chromecast-1.git"
+  },
+  "keywords": [
+    "cordova-chromecast-1"
+  ],
+  "engines": [
+    {
+      "name": "cordova",
+      "version": ">=3.0.0"
+    }
+  ],
+  "author": "nsrichard",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/nsrichard/cordova-chromecast-1/issues"
+  },
+  "homepage": "https://github.com/nsrichard/cordova-chromecast-1"
+}
